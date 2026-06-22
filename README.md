@@ -405,9 +405,3 @@ MAX_CONCURRENT_ANALYSIS=2     # 同时运行的分析任务数量
 
 **TradingAgents-MCPmode** - 让AI智能体团队为你的投资决策保驾护航！ 🚀📈
 
-## 📬 联系方式
-
-- 邮箱：`guangxiangdebizi@gmail.com`
-- LinkedIn：[Xingyu Chen](https://www.linkedin.com/in/xingyu-chen-b5b3b0313/)
-- Facebook：[个人主页](https://www.facebook.com/profile.php?id=100072282093932)
-- Bilibili：[个人空间](https://space.bilibili.com/51239486?spm_id_from=333.1007.0.0)
