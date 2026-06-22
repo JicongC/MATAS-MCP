@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "finance-mcp": {
+      "timeout": 600,
+      "transport": "streamable_http",
+      "url": "https://finvestai.top/mcp",
+      "headers": {
+        "X-Tushare-Token": "98fe6ab2afd6e668c1aec912ebbe5f01eb7daaa2c7ff998f8316cf07"
+      }
+    }
+  }
+}
